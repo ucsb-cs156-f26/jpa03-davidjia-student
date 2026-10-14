@@ -2,7 +2,7 @@
 
 
 
-Running at: <http://jpa03-davidjia-student.dokku-11.cs.ucsb.edu>
+Running at: <https://jpa03-davidjia-student.dokku-11.cs.ucsb.edu>
 
 Running at: <https://jpa03-staff.dokku-00.cs.ucsb.edu>
 
